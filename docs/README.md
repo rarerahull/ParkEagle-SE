@@ -1,4 +1,4 @@
-# ParkEagle-SE Documentation
+# ParkEagle-SE Group 10 Software Engineering
 
 This folder contains all documentation for the Park Eagle parking app, including:
 
@@ -7,5 +7,6 @@ This folder contains all documentation for the Park Eagle parking app, including
 - Requirements and specifications  
 - Final presentation slides  
 - Project reports  
+
 
 
